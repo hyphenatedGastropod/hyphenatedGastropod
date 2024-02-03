@@ -9,7 +9,7 @@ my interests ✯ overwatch , splatoon , project sekai , genshin , pokemon , voca
 my favourite charactersss ★ overwatch: hanzo (my wife) , cassidy , baptiste , lucio , genji | prsk: all of nightcord , honami , haruka | genshin: kokomi , furina , itto , wriothesley , navia , nilou , yelan | persona: ryuji , futaba , makoto , haru , ann | pokemon: all of the s&v main cast 
 
 <!--
-**hyphenatedGastropod/hyphenatedGastropod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**starstruckGastropod/starstruckGastropod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
